@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @wannapg
-- 👀 I’m interested in  ✨ DL✨ ,  ✨ Object detection ✨
-- 📫 reginakang52@gmail.com
+
